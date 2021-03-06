@@ -1,0 +1,7 @@
+h1.heading{
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(148, 130, 130);
+}
