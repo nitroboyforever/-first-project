@@ -1,10 +1,26 @@
 body{
     background-color:rgb(220, 220, 220);
 }
+#us {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 20px;
+    margin: 20px;
+
+}
 
 h1.heading{
     text-decoration: underline;
     text-transform: capitalize;
     text-align:center;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.main {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
 }
