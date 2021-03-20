@@ -1,7 +1,13 @@
-#img{
+#bog{
     
     text-decoration: red;
 }
-.bog{
-    background-image:url("./img2/1.jpg+");
+.img{
+    background-image: url("/home\ work/img2/1.jpg");
+   background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+
+
+
 }

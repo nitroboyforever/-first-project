@@ -1,0 +1,6 @@
+var target:transform;
+ 
+function Update(){
+    transform.LookAt(target);
+    transform.Translate(Vector3.right * Time.deltaTime);
+}
